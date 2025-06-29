@@ -1,3 +1,0 @@
-/home/jason/Desktop/JJ-Spoof/build/CMakeFiles/JJ-Spoof.dir
-/home/jason/Desktop/JJ-Spoof/build/CMakeFiles/edit_cache.dir
-/home/jason/Desktop/JJ-Spoof/build/CMakeFiles/rebuild_cache.dir

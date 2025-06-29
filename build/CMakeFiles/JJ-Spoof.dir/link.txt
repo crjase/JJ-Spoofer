@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/JJ-Spoof.dir/JJ-Spoof.cpp.o" -o JJ-Spoof   -L/home/jason/Desktop/JJ-Spoof/./lib  -Wl,-rpath,/home/jason/Desktop/JJ-Spoof/./lib -lfltk -lX11 -lXext -lXft -lfontconfig -lXinerama -lXcursor -lXfixes -lXrender -lstdc++ -lpthread -ldl 
